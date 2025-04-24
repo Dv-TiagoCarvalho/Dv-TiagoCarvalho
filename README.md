@@ -50,78 +50,14 @@ Me chamo Tiago Carvalho, tenho 18 anos e sou natural de Viçosa. Concluí o ensi
     src="https://github-readme-stats.vercel.app/api?username=Dv-TiagoCarvalho&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-  <meta charset="UTF-8">
-  <title>Tecnologias</title>
-  <style>
-    body {
-      background-color: #0d1117;
-      font-family: Arial, sans-serif;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-      margin: 0;
-    }
-    .card {
-      background-color: #161b22;
-      color: #c9d1d9;
-      padding: 20px 30px;
-      border-radius: 10px;
-      width: 300px;
-      box-shadow: 0 0 15px rgba(0,0,0,0.3);
-    }
-    .title {
-      font-size: 1.5rem;
-      margin-bottom: 20px;
-      border-bottom: 2px solid #30363d;
-      padding-bottom: 10px;
-    }
-    .lang {
-      margin-bottom: 15px;
-    }
-    .lang-name {
-      font-size: 1rem;
-      margin-bottom: 5px;
-    }
-    .bar {
-      width: 100%;
-      background-color: #30363d;
-      border-radius: 5px;
-      overflow: hidden;
-    }
-    .fill {
-      height: 10px;
-      border-radius: 5px;
-    }
-  </style>
-</head>
-<body>
-  <div class="card">
-    <h1 class="title">Tecnologias</h1>
-    <div class="lang">
-      <div class="lang-name">Java</div>
-      <div class="bar">
-        <div class="fill" style="width: 40%; background-color: #f89820;"></div>
-      </div>
-    </div>
-    <div class="lang">
-      <div class="lang-name">HTML</div>
-      <div class="bar">
-        <div class="fill" style="width: 35%; background-color: #e34c26;"></div>
-      </div>
-    </div>
-    <div class="lang">
-      <div class="lang-name">CSS</div>
-      <div class="bar">
-        <div class="fill" style="width: 25%; background-color: #264de4;"></div>
-      </div>
-    </div>
-  </div>
-</body>
-</html>
+## 🚀 Tecnologias que eu uso
+
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+</div>
+
 
   />
 
