@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Tiago Carvalho
 
-**`Desenvolvedor back-and`**
+**`Desenvolvedor back-end`**
 
 Me chamo Tiago Carvalho, tenho 18 anos e sou natural de Viçosa. Concluí o ensino médio no  estado do Espiríto Santo. Atualmente, estou cursando Ciêcia da Computação. Gosto muito de tecnologia.
 <p align="left">
