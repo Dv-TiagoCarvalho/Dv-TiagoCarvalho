@@ -51,10 +51,12 @@ Me chamo Tiago Carvalho, tenho 18 anos e sou natural de Viçosa. Concluí o ensi
   />
 
 <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dv-TiagoCarvalho&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"     
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dv-TiagoCarvalho&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"     
+/>
+
   />
 
 </p>
