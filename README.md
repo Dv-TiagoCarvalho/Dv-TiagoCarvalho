@@ -50,15 +50,11 @@ Me chamo Tiago Carvalho, tenho 18 anos e sou natural de Viçosa. Concluí o ensi
     src="https://github-readme-stats.vercel.app/api?username=Dv-TiagoCarvalho&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-## 🚀 Tecnologias que eu uso
-
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-</div>
-
-
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"     
   />
 
 </p>
