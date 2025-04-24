@@ -30,7 +30,7 @@ Me chamo Tiago Carvalho, tenho 18 anos e sou natural de Viçosa. Concluí o ensi
     alt="Java" 
     title="Java"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 20px;" 
     src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" 
 />
 
