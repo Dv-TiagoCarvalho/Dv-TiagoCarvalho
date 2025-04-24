@@ -27,12 +27,12 @@ Me chamo Tiago Carvalho, tenho 18 anos e sou natural de Viçosa. Concluí o ensi
 />
 <img 
     align="left" 
-    alt="JavaS" 
-    title="JavaScript"
+    alt="Java" 
+    title="Java"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-
+/>
 
 
 
