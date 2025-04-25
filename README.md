@@ -11,6 +11,9 @@ Me chamo Tiago Carvalho, tenho 18 anos e sou natural de Viçosa. Concluí o ensi
 
 ###
 
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -32,15 +35,10 @@ Me chamo Tiago Carvalho, tenho 18 anos e sou natural de Viçosa. Concluí o ensi
 
 ###
 
-###
+<br clear="both">
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Dv-TiagoCarvalho/count.svg?"  />
-</div>
+<img src="https://raw.githubusercontent.com/Dv-TiagoCarvalho/Dv-TiagoCarvalho/output/snake.svg" alt="Snake animation" />
 
-###
-
-###
 ###
 <!--
 **Dv-TiagoCarvalho/Dv-TiagoCarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
