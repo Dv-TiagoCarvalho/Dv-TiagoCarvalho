@@ -5,7 +5,7 @@
 Me chamo Tiago Carvalho, tenho 18 anos e sou natural de Viçosa. Concluí o ensino médio no  estado do Espiríto Santo. Atualmente, estou cursando Ciêcia da Computação no Centro Universitário de Belo Horizonte. Gosto muito de tecnologia.
 
 
----<div style="height:2px; background-color:#f92772; border:0; border-radius:1px;"></div>
+---
 
 
 
