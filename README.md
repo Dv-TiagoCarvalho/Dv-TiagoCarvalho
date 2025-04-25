@@ -35,8 +35,6 @@ Me chamo Tiago Carvalho, tenho 18 anos e sou natural de Viçosa. Concluí o ensi
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/Dv-TiagoCarvalho/Dv-TiagoCarvalho/output/snake.svg" alt="Snake animation" />
 
 ###
